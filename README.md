@@ -1,5 +1,6 @@
-## Hi there 👋
+# 👋 Halo, saya Ahmad Rapipi
 
+Mahasiswa Informatika 🚀
 <!--
 **jrrapi59-spec/jrrapi59-spec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
