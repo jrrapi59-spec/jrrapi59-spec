@@ -1,17 +1,18 @@
-# 👋 Halo, saya Ahmad Rapipi
+<h1 align="center">Hi 👋, I'm Ahmad Rapipi</h1>
+<h3 align="center">🏔️ Adventure Coder | 💻 Informatics Student | 🚀 Future Developer</h3>
 
-Mahasiswa Informatika 🚀
-<!--
-**jrrapi59-spec/jrrapi59-spec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Love+Coding;Love+Nature;Future+Programmer;Never+Stop+Learning" />
+</p>
 
-Here are some ideas to get you started:
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jrrapi59&show_icons=true&theme=radical" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 GitHub Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=jrrapi59&theme=radical" />
+</p>
+
+<p align="center">✨ Thanks for visiting ✨</p>
