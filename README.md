@@ -1,52 +1,58 @@
-<h1 align="center">Hi 👋, I'm Ahmad Rapipi</h1>
-<h3 align="center">🌄 Adventure Coder | Informatics Student | Future Developer</h3>
-
+<!-- 🌄 Background Mountain Dark -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Love+Coding;Love+Nature;Future+Programmer;Never+Stop+Learning" />
+  <img src="https://images.unsplash.com/photo-1501785888041-af3ef285b470" width="100%" />
 </p>
+
+<br>
+
+<div align="center">
+
+  <!-- FOTO KAMU (GANTI LINKNYA) -->
+  <img src="raffi.jpeg" width="180" style="border-radius: 50%;" />
+
+  <h1 style="color:white;">Rapi Jr</h1>
+
+  <p>
+    🌌 Informatics Student <br>
+    💻 Python Learner <br>
+    🚀 Future Software Developer
+  </p>
+
+</div>
 
 ---
 
-## 🏔️ About Me
-<p align="center">
-<img src="gunung.jpg" width="250" style="border-radius:15px;" />
-</p>
+## 🏔 About Me
 
-- 🎓 Mahasiswa Informatika  
-- 🌄 Suka naik gunung & petualangan  
-- 💻 Belajar Web Development & Python  
-- 🎯 Goal: Jadi Software Developer  
-- 🎧 Ngoding sambil denger musik biar fokus  
+```python
+name = "Rapipi"
+location = "Indonesia"
+focus = "Learning Python & Web Development"
+mood = "Building my future step by step 🚀"
+```
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
+
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,git,github,vscode" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
-# Ahmad Rapipi 👋
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jrrapi59-spec&show_icons=true)
 
-## 🔥 GitHub Streak
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jrrapi59-spec&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jrrapi59-spec&show_icons=true&theme=tokyonight" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrrapi59-spec&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake
-<p align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
-</p>
+<div align="center">
 
----
+✨ *"Climbing mountains in real life & in coding journey."* 🏔
 
-<p align="center">
-🌄 "Code. Climb. Conquer." 🌄
-</p>
-
+</div>
